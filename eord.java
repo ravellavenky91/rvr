@@ -11,7 +11,7 @@ class Ideone
 		int r=type.nextInt();
 		if(r%2==0)
 		{
-			System.out.println("even");
+			System.out.println("Even");
 		}
 		else
 		{
